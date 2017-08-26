@@ -1,0 +1,15 @@
+
+public class CalculatorTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int num = 2;
+		
+		int square = Calculator.square(num);
+		
+		System.out.println(square);
+
+	}
+
+}
